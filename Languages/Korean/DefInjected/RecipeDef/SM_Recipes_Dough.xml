@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Flour_dough -->
+  <Make_Flour_dough.label>밀가루 반죽 만들기.</Make_Flour_dough.label>
+  <Make_Flour_dough.description>밀가루 반죽 만들기.</Make_Flour_dough.description>
+  <Make_Flour_dough.jobString>밀가루 반죽 만드는 중.</Make_Flour_dough.jobString>
+  <Make_Flour_dough_10.label>밀가루 반죽 10개 만들기</Make_Flour_dough_10.label>
+  <Make_Flour_dough_10.description>밀가루 반죽 10개 만들기.</Make_Flour_dough_10.description>
+  <Make_Flour_dough_10.jobString>밀가루 반죽 10개 만드는 중.</Make_Flour_dough_10.jobString>
+</LanguageData>

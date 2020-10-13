@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 스파게티 -->
+  <Make_SpageteSource.label>스파게티 소스 만들기</Make_SpageteSource.label>
+  <Make_SpageteSource.description>스파게티 소스 만들기.</Make_SpageteSource.description>
+  <Make_SpageteSource.jobString>스파게티 소스 만드는 중.</Make_SpageteSource.jobString>
+  <Make_SpageteSource_X10.label>스파게티 소스 10개 만들기</Make_SpageteSource_X10.label>
+  <Make_SpageteSource_X10.description>스파게티 소스 10개 만들기.</Make_SpageteSource_X10.description>
+  <Make_SpageteSource_X10.jobString>스파게티 소스 10개 만드는 중.</Make_SpageteSource_X10.jobString>
+  <Make_SpageteNoodle.label>면 만들기</Make_SpageteNoodle.label>
+  <Make_SpageteNoodle.description>면 만들기.</Make_SpageteNoodle.description>
+  <Make_SpageteNoodle.jobString>면 만드는 중.</Make_SpageteNoodle.jobString>
+  <Make_Spagete.label>스파게티 만들기</Make_Spagete.label>
+  <Make_Spagete.description>스파게티 만들기.</Make_Spagete.description>
+  <Make_Spagete.jobString>스파게티 만드는 중.</Make_Spagete.jobString>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 스파게티 -->
+  <!--<Make_SpageteSource.label>make spaghetti source</Make_SpageteSource.label>-->
+  <!--<Make_SpageteSource.description>Make a spaghetti source.</Make_SpageteSource.description>-->
+  <!--<Make_SpageteSource.jobString>Making spaghetti source.</Make_SpageteSource.jobString>-->
+  <!--<Make_SpageteSource_X10.label>make spaghetti source ×10</Make_SpageteSource_X10.label>-->
+  <!--<Make_SpageteSource_X10.description>Make 10 spaghetti source.</Make_SpageteSource_X10.description>-->
+  <!--<Make_SpageteSource_X10.jobString>Making spaghetti source.</Make_SpageteSource_X10.jobString>-->
+  <!--<Make_SpageteNoodle.label>make SpageteNoodle</Make_SpageteNoodle.label>-->
+  <!--<Make_SpageteNoodle.description>Make SpageteNoodle.</Make_SpageteNoodle.description>-->
+  <!--<Make_SpageteNoodle.jobString>Making SpageteNoodle.</Make_SpageteNoodle.jobString>-->
+  <!--<Make_Spagete.label>make spaghetti</Make_Spagete.label>-->
+  <!--<Make_Spagete.description>Make spaghetti.</Make_Spagete.description>-->
+  <!--<Make_Spagete.jobString>Making spaghetti.</Make_Spagete.jobString>-->
+
+</LanguageData>

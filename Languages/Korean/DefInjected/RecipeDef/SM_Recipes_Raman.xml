@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 라면 -->
+  <Make_Raman.label>라면 만들기</Make_Raman.label>
+  <Make_Raman.description>라면 만들기.</Make_Raman.description>
+  <Make_Raman.jobString>라면 만드는 중.</Make_Raman.jobString>
+</LanguageData>

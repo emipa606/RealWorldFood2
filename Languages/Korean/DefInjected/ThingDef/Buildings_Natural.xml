@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- salt Ore -->
+  <MineableSalt.label>암염</MineableSalt.label>
+  <MineableSalt.description>소금을 포함하는 암석입니다.</MineableSalt.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Noodle_making_machine.label>면 제조기</Noodle_making_machine.label>
+  <Noodle_making_machine.description>면 제조기, 네 맞습니다. 면만 만듭니다. 아직은요</Noodle_making_machine.description>
+  <Noodle_making_machine_Blueprint.label>면 제조기(청사진)</Noodle_making_machine_Blueprint.label>
+  <Noodle_making_machine_Blueprint_Install.label>면 제조기(청사진)</Noodle_making_machine_Blueprint_Install.label>
+  <Noodle_making_machine_Frame.label>면 제조기(건설 중)</Noodle_making_machine_Frame.label>
+  <Noodle_making_machine_Frame.description>면 제조기, 네 맞습니다. 면만 만듭니다. 아직은요.</Noodle_making_machine_Frame.description>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AtePanCake.stages.0.label>팬케잌을 먹었다</AtePanCake.stages.0.label>
+  <AtePanCake.stages.0.description>이게 팬케잌이구나 달콤한데!</AtePanCake.stages.0.description>
+  <RicePorridge.stages.0.label>죽을 먹음</RicePorridge.stages.0.label>
+  <RicePorridge.stages.0.description>나 음식을 먹은건가? 아직 배고픈데...</RicePorridge.stages.0.description>
+  <Spagete.stages.0.label>스파게티</Spagete.stages.0.label>
+  <Spagete.stages.0.description>오오, 스파게티 최고야.</Spagete.stages.0.description>
+  <Apple_Pie.stages.0.label>애플파이를 먹었다</Apple_Pie.stages.0.label>
+  <Apple_Pie.stages.0.description>애플파이...이건정말 맛있고 달콤해! 좀더 먹고 싶은데 어디 없나?</Apple_Pie.stages.0.description>
+  <Lunch_Box.stages.0.label>도시락을 먹었다</Lunch_Box.stages.0.label>
+  <Lunch_Box.stages.0.description>도시락... 어디서 많이 본거같다? 그래도 맛이 좋은데.</Lunch_Box.stages.0.description>
+  <Raman.stages.0.label>라면을 먹었다</Raman.stages.0.label>
+  <Raman.stages.0.description>내가 전에 라면을 먹은적이있었나? 맛좋은데?</Raman.stages.0.description>
+  <Ricepudding.stages.0.label>라이스 푸딩을 먹었다</Ricepudding.stages.0.label>
+  <Ricepudding.stages.0.description>달고 맛좋은데!</Ricepudding.stages.0.description>
+  <AteOlive.stages.0.label>생올리브를 먹음</AteOlive.stages.0.label>
+  <AteOlive.stages.0.description>왜 이딴걸 먹어야 하는거지?!</AteOlive.stages.0.description>
+</LanguageData>

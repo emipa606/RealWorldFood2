@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MealRottable">
+    <defName>PanCake</defName>
+    <label>pancake</label>
+    <description>A simple pankace. it's sweet.</description>
+    <graphicData>
+      <texPath>Things/Food/PanCake/HotCake</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>10</MarketValue>
+      <Nutrition>0.85</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AtePanCake</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <!-->~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<-->
+  <ThingDef ParentName="MealRottable">
+    <defName>RicePorridge</defName>
+    <label>rice porridge</label>
+    <description>Rice porridge, it's not tasteless, it's just... it's not enough to eat I mean, you're gonna have to eat two times. But it's easy to make..</description>
+    <graphicData>
+      <texPath>Things/Food/RicePorridge/SM_RicePorridge</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.1</MarketValue>
+      <Nutrition>0.55</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>RicePorridge</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <!-->~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<-->
+  <ThingDef ParentName="MealRottable">
+    <defName>Spagete</defName>
+    <label>spagete</label>
+    <description>Spaghetti! What else do you need?.</description>
+    <graphicData>
+      <texPath>Things/Food/Spagete/SM_Spagete</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>15</MarketValue>
+      <Nutrition>0.95</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>Spagete</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <!-->~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<-->
+  <ThingDef ParentName="MealRottable">
+    <defName>Apple_Pie</defName>
+    <label>Apple_Pie</label>
+    <description>Apple pie, you're reading this! Maybe you've created a luxury settlement or you're using cheats!.</description>
+    <graphicData>
+      <texPath>Things/Food/Apple_pie/SM_Apple_pie</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>30</MarketValue>
+      <Nutrition>0.95</Nutrition>
+    </statBases>
+    <ingestible>
+      <joyKind>Gluttonous</joyKind>
+      <joy>0.07</joy>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>Apple_Pie</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <!-->~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<-->
+  <ThingDef ParentName="MealRottable">
+    <defName>Ice_Lunch_box</defName>
+    <label>Ice_Lunch_box</label>
+    <description>A lunch boxes. It looks like you've seen. Where are you? "See you again," "Gas 24." Anyway, you're watching it at Rimworld now!.</description>
+    <graphicData>
+      <texPath>Things/Food/Ice_Lunch_box/SM_Ice_Lunch_box</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>5</MarketValue>
+      <Nutrition>0.9</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>Lunch_Box</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <!-->~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<-->
+  <ThingDef ParentName="MealRottable">
+    <defName>Raman</defName>
+    <label>Raman</label>
+    <description>Where is this ramen? What does it matter? I've seen it in Rimwold, so don't mind!.</description>
+    <graphicData>
+      <texPath>Things/Food/Raman/SM_Raman</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>10</MarketValue>
+      <Nutrition>0.95</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>Raman</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>Ricepudding</defName>
+    <label>Rice pudding</label>
+    <description>Rice pudding.</description>
+    <graphicData>
+      <texPath>Things/Food/Ricepudding/RWF_Ricepudding</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>25</MarketValue>
+      <Nutrition>0.95</Nutrition>
+    </statBases>
+    <ingestible>
+      <joyKind>Gluttonous</joyKind>
+      <joy>0.03</joy>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>Ricepudding</tasteThought>
+    </ingestible>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 라면 -->
+  <Make_OliveOil.label>올리브 오일 만들기</Make_OliveOil.label>
+  <Make_OliveOil.description>올리브 오일 만들기.</Make_OliveOil.description>
+  <Make_OliveOil.jobString>올리브 오일 만드는 중.</Make_OliveOil.jobString>
+</LanguageData>

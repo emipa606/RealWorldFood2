@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <ThingDef ParentName="RC2_FruitTreeBase">
+    <defName>RWF_OlivePlant</defName>
+    <label>Olive tree</label>
+    <description>Olive tree.</description>
+    <graphicData>
+      <texPath>Things/Plant/OliveTree</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <growDays>33.3</growDays>
+      <harvestYield>24</harvestYield>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <harvestAfterGrowth>0.67</harvestAfterGrowth>
+      <sowTags>
+        <li>Ground</li>
+      </sowTags>
+      <wildBiomes>
+        <TropicalRainforest>0.03</TropicalRainforest>
+      </wildBiomes>
+      <harvestedThingDef>RawOlive</harvestedThingDef>
+      <immatureGraphicPath>Things/Plant/Immature/OliveTree</immatureGraphicPath>
+      <sowResearchPrerequisites>
+        <li>SM_Olive</li>
+      </sowResearchPrerequisites>
+    </plant>
+  </ThingDef>
+</Defs>

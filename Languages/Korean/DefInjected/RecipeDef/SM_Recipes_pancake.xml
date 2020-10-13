@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 팬케잌 -->
+  <Make_BoxOfPanCake.label>팬케잌 박스 만들기</Make_BoxOfPanCake.label>
+  <Make_BoxOfPanCake.description>팬케잌 박스 만들기.</Make_BoxOfPanCake.description>
+  <Make_BoxOfPanCake.jobString>팬케잌 박스 만드는 중.</Make_BoxOfPanCake.jobString>
+  <Make_BoxOfPanCake_X10.label>팬케잌 박스 10개 만들기</Make_BoxOfPanCake_X10.label>
+  <Make_BoxOfPanCake_X10.description>팬케잌 박스 10개 만들기.</Make_BoxOfPanCake_X10.description>
+  <Make_BoxOfPanCake_X10.jobString>팬케잌 박스 10개 만드는 중.</Make_BoxOfPanCake_X10.jobString>
+  <Make_PanCake.label>팬케잌 만들기</Make_PanCake.label>
+  <Make_PanCake.description>팬케잌 만들기.</Make_PanCake.description>
+  <Make_PanCake.jobString>팬케잌 만드는 중.</Make_PanCake.jobString>
+</LanguageData>

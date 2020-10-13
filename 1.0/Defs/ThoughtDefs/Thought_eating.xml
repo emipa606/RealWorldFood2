@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThoughtDef>
+    <defName>AtePanCake</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>5</stackLimit>
+    <stages>
+      <li>
+        <label>ate pancake</label>
+        <description>This pancake is sweet!</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>RicePorridge</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>5</stackLimit>
+    <stages>
+      <li>
+        <label>ate RicePorridge</label>
+        <description>Apparently I ate some food, but I'm still hungry.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>Spagete</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>5</stackLimit>
+    <stages>
+      <li>
+        <label>ate Spagete</label>
+        <description>Oh, I love spaghetti.</description>
+        <baseMoodEffect>+5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>Apple_Pie</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>5</stackLimit>
+    <stages>
+      <li>
+        <label>ate apple pie</label>
+        <description>Apple pie... it's sweet and delicious. Isn't there any more?</description>
+        <baseMoodEffect>+5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>Lunch_Box</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>5</stackLimit>
+    <stages>
+      <li>
+        <label>ate lunch box</label>
+        <description>Lunch box... where do you think you've seen a lot? But it tastes good.</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>Raman</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>5</stackLimit>
+    <stages>
+      <li>
+        <label>ate raman</label>
+        <description>Where can I eat ramen like this again? That's here!</description>
+        <baseMoodEffect>+4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>Ricepudding</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>5</stackLimit>
+    <stages>
+      <li>
+        <label>ate Rice pudding</label>
+        <description>It's sweet and delicious!</description>
+        <baseMoodEffect>+3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>AteOlive</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>5</stackLimit>
+    <stages>
+      <li>
+        <label>ate olive</label>
+        <description>What the hell does this taste like?!</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

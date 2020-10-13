@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Apple_pie -->
+  <Make_Apple_Pie.label>애플파이 만들기.</Make_Apple_Pie.label>
+  <Make_Apple_Pie.description>애플파이 만들기.</Make_Apple_Pie.description>
+  <Make_Apple_Pie.jobString>애플파이 만드는 중.</Make_Apple_Pie.jobString>
+  <Make_Apple_Pie_10.label>애플파이 10개 만들기.</Make_Apple_Pie_10.label>
+  <Make_Apple_Pie_10.description>애플파이 10개 만들기.</Make_Apple_Pie_10.description>
+  <Make_Apple_Pie_10.jobString>애플파이 10개 만드는 중.</Make_Apple_Pie_10.jobString>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BoxOfPanCake.label>팬케잌 상자</BoxOfPanCake.label>
+  <BoxOfPanCake.description>팬케잌 10개를 만들 양이 들어 있습니다. 조리후 먹어야 합니다 그냥은 먹을수 없습니다.</BoxOfPanCake.description>
+  <Row_Spagete.label>면</Row_Spagete.label>
+  <Row_Spagete.description>조리되지 않은 면, 무슨음식이 될까요?</Row_Spagete.description>
+  <Row_SpageteSource.label>스파게티 소스</Row_SpageteSource.label>
+  <Row_SpageteSource.description>토마토를 끓이고 요리해서 만든 소스,그냥 먹을생각은 하지 않는게 좋을 겁니다!</Row_SpageteSource.description>
+  <SpamCan.label>스팸</SpamCan.label>
+  <SpamCan.description>스팸, 그거 알아? 사실 스팸 깡통이 개발된 지 불과 며칠 만에 비위생적인 고기... 뭐야? 대본이 틀렸어? 오 젠장! 그건 잊어버려. 스팸은 스팸이다..</SpamCan.description>
+  <Flour_dough.label>밀가루 반죽</Flour_dough.label>
+  <Flour_dough.description>밀가루 반죽. 다양한 음식의 면을 만드는 재료다.</Flour_dough.description>
+  <Ice_Lunch_box_Frozen.label>도시락(냉동)</Ice_Lunch_box_Frozen.label>
+  <Ice_Lunch_box_Frozen.description>도시락입니다. 이 도시락 어디선가 본거 같지 않습니까? 어디서 봤나요? "See you again," "Gas 24." 이찌되었든간에 이제 림월드에서 보고 있습니다! 하지만 지금은 얼어있군요 얼음덩어리 음식을 먹는게 취미가 아니라면 해동해야합니다.</Ice_Lunch_box_Frozen.description>
+  <RWF_Salt.label>소금</RWF_Salt.label>
+  <RWF_Salt.description>소금입니다, 미세플라스틱같이 위험물질은 없습니다 천연재료라구요!</RWF_Salt.description>
+  <RWF_Butter.label>버터</RWF_Butter.label>
+  <RWF_Butter.description>버터, 우유로 만듭니다 조심하지 않으면 살이 찔겁니다! 림월드에선 아니지만요.</RWF_Butter.description>
+  <RWF_OliveOil.label>올리브 오일</RWF_OliveOil.label>
+  <RWF_OliveOil.description>올리브 오일. 올리브 오일은 사실 생으로 마셔도 된다고 합니다! 림월드에선 아니지만요.</RWF_OliveOil.description>
+</LanguageData>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--				Apple_pie							-->
+  <RecipeDef>
+    <defName>Make_Apple_Pie</defName>
+    <label>make Apple_Pie</label>
+    <description>Make Apple_Pie.</description>
+    <jobString>Making Apple_Pie.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>3000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_RawApples</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_Sugar</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Flour_dough</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RC2_RawApples</li>
+        <li>RC2_Sugar</li>
+        <li>Flour_dough</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Apple_Pie>1</Apple_Pie>
+    </products>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>SM_Apple_pie</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Make_Apple_Pie_10</defName>
+    <label>make 10 Apple_Pie</label>
+    <description>Make 10 Apple_Pie.</description>
+    <jobString>Making Apple_Pie.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>3000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_RawApples</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_Sugar</li>
+          </thingDefs>
+        </filter>
+        <count>50</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Flour_dough</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RC2_RawApples</li>
+        <li>RC2_Sugar</li>
+        <li>Flour_dough</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Apple_Pie>10</Apple_Pie>
+    </products>
+    <skillRequirements>
+      <Cooking>10</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>SM_Apple_pie</researchPrerequisite>
+  </RecipeDef>
+</Defs>

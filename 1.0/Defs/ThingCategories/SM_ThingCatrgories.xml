@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingCategoryDef>
+    <defName>CookComponents</defName>
+    <label>cook components</label>
+    <parent>Foods</parent>
+    <iconPath>UI/Icons/ThingCategories/All_in</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Flour_processing</defName>
+    <label>flour processing</label>
+    <parent>CookComponents</parent>
+    <iconPath>UI/Icons/ThingCategories/Fl</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Spaghetti_Ingredients</defName>
+    <label>spaghetti ingredients</label>
+    <parent>CookComponents</parent>
+    <iconPath>UI/Icons/ThingCategories/SP</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Cooking_oil</defName>
+    <label>Cooking oil</label>
+    <parent>CookComponents</parent>
+    <iconPath>Things/Food_In/Olive_oil/RWF_Olive_oil</iconPath>
+  </ThingCategoryDef>
+</Defs>

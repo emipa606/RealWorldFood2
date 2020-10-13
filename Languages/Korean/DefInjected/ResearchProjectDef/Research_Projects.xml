@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Main Categories -->
+  <Make_SimpleMeal.label>새로운 음식 만들기</Make_SimpleMeal.label>
+  <Make_SimpleMeal.description>음식을 만드는 새로운 방법을 연구합니다.</Make_SimpleMeal.description>
+  <Make_Noodle.label>면 연구</Make_Noodle.label>
+  <Make_Noodle.description>면 만드는 법을 연구합니다.</Make_Noodle.description>
+  <Make_Dough.label>밀가루 반죽법 연구</Make_Dough.label>
+  <Make_Dough.description>밀가루 반죽을 연구합니다.</Make_Dough.description>
+  <Make_RicePorridge.label>죽 만드는 법 연구</Make_RicePorridge.label>
+  <Make_RicePorridge.description>쌀을 이용한 음식을 연구합니다.</Make_RicePorridge.description>
+  <Make_HotCake.label>팬케잌 만들기</Make_HotCake.label>
+  <Make_HotCake.description>팬케잌 만드는 법을 연구합니다.</Make_HotCake.description>
+  <Baes_Spagete.label>스파게티의 기본</Baes_Spagete.label>
+  <Baes_Spagete.description>스파게티를 구성하는 제품을 만드는 법을 연구합니다</Baes_Spagete.description>
+  <Spagete_Making.label>스파게티 조리</Spagete_Making.label>
+  <Spagete_Making.description>이제 스파게티를 만들 시간이군요.</Spagete_Making.description>
+  <SM_Raman.label>라면 만들기</SM_Raman.label>
+  <SM_Raman.description>라면만드는 법을 연구합니다.</SM_Raman.description>
+  <SM_Lunch_Box.label>도시락 만들기</SM_Lunch_Box.label>
+  <SM_Lunch_Box.description>도시락 만드는 법을 연구합니다</SM_Lunch_Box.description>
+  <SM_Apple_pie.label>애플파이 만들기</SM_Apple_pie.label>
+  <SM_Apple_pie.description>애플파이 만드는 법을 연구합니다.</SM_Apple_pie.description>
+  <SM_Spam.label>스팸 연구</SM_Spam.label>
+  <SM_Spam.description>스팸 만드는 법을 연구합니다.</SM_Spam.description>
+  <SM_Butter.label>버터 만들기</SM_Butter.label>
+  <SM_Butter.description>버터 만드는 법을 연구 합니다.</SM_Butter.description>
+  <SM_Olive.label>올리브 재배 연구</SM_Olive.label>
+  <SM_Olive.description>올리브 재배 법을 연구 합니다.</SM_Olive.description>
+  <SM_Olive2.label>올리브 오일 제작</SM_Olive2.label>
+  <SM_Olive2.description>올리브 오일 제작 방법을 연구 합니다.</SM_Olive2.description>
+  <SM_RicePudding.label>라이스 푸딩 제작</SM_RicePudding.label>
+  <SM_RicePudding.description>라이스 푸딩 만드는 법을 연구 합니다.</SM_RicePudding.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PanCake.label>팬케잌</PanCake.label>
+  <PanCake.description>팬케잌. 단맛이 나네요.</PanCake.description>
+  <!-- >~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~< -->
+  <RicePorridge.label>죽</RicePorridge.label>
+  <RicePorridge.description>쌀로 만든 죽입니다. 맛이 없는건 아닌데, 그냥... 먹어도 배가 부르질 않습니다. 그러니까 1번먹어서는 성에 차질 안는다구요 2그릇 정도는 먹어야 배가 부를거 같아요.</RicePorridge.description>
+  <Spagete.label>스파게티</Spagete.label>
+  <Spagete.description>스파게티! 뭐가 더 필요합니까?.</Spagete.description>
+  <Apple_Pie.label>애플파이</Apple_Pie.label>
+  <Apple_Pie.description>애플파이, 오 당신 이걸 읽다니! 아마도 당신의 정착지는 매우 여유롭거나, 치트 플레이중이겠군요!</Apple_Pie.description>
+  <Ice_Lunch_box.label>도시락</Ice_Lunch_box.label>
+  <Ice_Lunch_box.description>도시락입니다. 이 도시락 어디선가 본거 같지 않습니까? 어디서 봤나요? "See you again," "Gas 24." 이찌되었든간에 이제 림월드에서 보고 있습니다!</Ice_Lunch_box.description>
+  <Raman.label>라멘</Raman.label>
+  <Raman.description>이 라면? 라멘? 어느쪽이죠? 뭔상관입니까 지금 림월드에서 보고있는데. 신경쓰지 마세요!</Raman.description>
+  <Ricepudding.label>라이스 푸딩</Ricepudding.label>
+  <Ricepudding.description>라이스 푸딩, 달콤할겁니다 아마...?</Ricepudding.description>
+</LanguageData>

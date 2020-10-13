@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Spam -->
+  <Make_Spam.label>스팸 만들기</Make_Spam.label>
+  <Make_Spam.description>스팸 만들기.</Make_Spam.description>
+  <Make_Spam.jobString>스팸 만드는 중.</Make_Spam.jobString>
+  <Make_Spam_10.label>스팸 10개 만들기</Make_Spam_10.label>
+  <Make_Spam_10.description>스팸 10개 만들기.</Make_Spam_10.description>
+  <Make_Spam_10.jobString>스팸 10개 만드는 중.</Make_Spam_10.jobString>
+</LanguageData>

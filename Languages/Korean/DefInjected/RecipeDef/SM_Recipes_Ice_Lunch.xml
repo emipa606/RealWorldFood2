@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 도시락 -->
+  <Make_Ice_Lunch_Box.label>도시락 만들기</Make_Ice_Lunch_Box.label>
+  <Make_Ice_Lunch_Box.description>도시락 만들기.</Make_Ice_Lunch_Box.description>
+  <Make_Ice_Lunch_Box.jobString>도시락 만드는 중.</Make_Ice_Lunch_Box.jobString>
+  <Thaw_Lunch_Boxes.label>도시락 해동하기</Thaw_Lunch_Boxes.label>
+  <Thaw_Lunch_Boxes.description>도시락 해동하기.</Thaw_Lunch_Boxes.description>
+  <Thaw_Lunch_Boxes.jobString>도시락 해동 하는중.</Thaw_Lunch_Boxes.jobString>
+</LanguageData>

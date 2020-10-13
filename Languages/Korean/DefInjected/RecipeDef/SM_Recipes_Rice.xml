@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 쌀죽 -->
+  <Make_RicePorridge.label>죽 만들기</Make_RicePorridge.label>
+  <Make_RicePorridge.description>죽 만들기.</Make_RicePorridge.description>
+  <Make_RicePorridge.jobString>죽 만드는 중.</Make_RicePorridge.jobString>
+  <Make_RicePorridge_X10.label>죽 10개 만들기</Make_RicePorridge_X10.label>
+  <Make_RicePorridge_X10.description>죽 10개 만들기</Make_RicePorridge_X10.description>
+  <Make_RicePorridge_X10.jobString>죽 10개 만드는 중.</Make_RicePorridge_X10.jobString>
+</LanguageData>
