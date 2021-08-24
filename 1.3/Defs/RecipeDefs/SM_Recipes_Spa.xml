@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- 			스파게티					-->
+  <RecipeDef>
+    <defName>Make_SpageteSource</defName>
+    <label>make spagete source</label>
+    <description>Make a spagete source.</description>
+    <jobString>Making spagete source.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>2500</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_RawTomato</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RC2_RawTomato</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Row_SpageteSource>1</Row_SpageteSource>
+    </products>
+    <skillRequirements>
+      <Cooking>2</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>Baes_Spagete</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Make_SpageteSource_X10</defName>
+    <label>make spagete source ×10</label>
+    <description>Make 10 spagete source.</description>
+    <jobString>Making spagete source.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>5000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_RawTomato</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RC2_RawTomato</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Row_SpageteSource>10</Row_SpageteSource>
+    </products>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>Baes_Spagete</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Make_SpageteNoodle</defName>
+    <label>make SpageteNoodle</label>
+    <description>Make SpageteNoodle.</description>
+    <jobString>Making SpageteNoodle.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>1000</workAmount>
+    <recipeUsers>
+      <li>Noodle_making_machine</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Flour_dough</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Flour_dough</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Flour_dough</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Row_Spagete>5</Row_Spagete>
+    </products>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>Baes_Spagete</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Make_Spagete</defName>
+    <label>make Spagete</label>
+    <description>Make Spagete.</description>
+    <jobString>Making Spagete.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>1500</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Row_SpageteSource</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Row_Spagete</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Row_SpageteSource</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Spagete>1</Spagete>
+    </products>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>Spagete_Making</researchPrerequisite>
+  </RecipeDef>
+</Defs>

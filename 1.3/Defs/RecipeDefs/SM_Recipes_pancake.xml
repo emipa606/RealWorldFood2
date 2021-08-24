@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--			팬케잌					-->
+  <RecipeDef>
+    <defName>Make_BoxOfPanCake</defName>
+    <label>make PanCake Box</label>
+    <description>Make a PanCake Box.</description>
+    <jobString>Making PanCake Box.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>2500</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_Flour</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_Sugar</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RC2_Flour</li>
+        <li>RC2_Sugar</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BoxOfPanCake>1</BoxOfPanCake>
+    </products>
+    <skillRequirements>
+      <Cooking>2</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>Make_HotCake</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Make_BoxOfPanCake_X10</defName>
+    <label>make PanCake Box ×10</label>
+    <description>Make 10 PanCake Box.</description>
+    <jobString>Making PanCake Box.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>2500</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_Flour</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_Sugar</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RC2_Flour</li>
+        <li>RC2_Sugar</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BoxOfPanCake>10</BoxOfPanCake>
+    </products>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>Make_HotCake</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Make_PanCake</defName>
+    <label>make PanCake</label>
+    <description>Make PanCake.</description>
+    <jobString>Making PanCake.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>3000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BoxOfPanCake</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Milk</li>
+          </thingDefs>
+        </filter>
+        <count>1.0</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BoxOfPanCake</li>
+        <li>Milk</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <PanCake>10</PanCake>
+    </products>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>Make_HotCake</researchPrerequisite>
+  </RecipeDef>
+</Defs>
