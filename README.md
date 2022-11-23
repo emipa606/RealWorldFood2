@@ -1,6 +1,6 @@
 # RealWorldFood2
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of mIkos mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1717902989
@@ -10,19 +10,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1717902989
 Also updated the Fish-Addon mod:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2256557380
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/RealWorldFood2]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Real World Food, adding some food!
@@ -65,7 +56,7 @@ This mode no longer requires 'RimCuisine 1.0' now use 'RimCuisine 2 Core' as the
 Listen, people, I've started playing games again and I'm updating this mode, but I'm having a hard time updating the mode unlike I did in 1.0. I'm sorry it's taking time.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -75,6 +66,7 @@ Listen, people, I've started playing games again and I'm updating this mode, but
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

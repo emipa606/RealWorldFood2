@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="ResourceBase_SimpleMeal" Abstract="True">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>75</stackLimit>
+    <statBases>
+      <Beauty>-4</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <rotatable>false</rotatable>
+    <pathCost>15</pathCost>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>BoxOfPanCake</defName>
+    <label>Box Of Pan Cake</label>
+    <description>There are 10 pancakes in the pancakes box. You can eat after cooking.</description>
+    <graphicData>
+      <texPath>Things/Food_In/HotCakeBox/Flour_Box</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>5</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <MarketValue>10.0</MarketValue>
+      <Mass>1.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Flour_processing</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>Row_Spagete</defName>
+    <label>row spagete</label>
+    <description>Uncooked noodles, what kind of food will it be?</description>
+    <graphicData>
+      <texPath>Things/Food_In/Row_Spagete/SM_SpageteRow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>5</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <MarketValue>1.0</MarketValue>
+      <Mass>1.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Spaghetti_Ingredients</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>Row_SpageteSource</defName>
+    <label>row spagete source</label>
+    <description>Boiled and cooked tomato sauce, don't think about eating it without cooking it!</description>
+    <graphicData>
+      <texPath>Things/Food_In/Row_Spagete/SM_SpageteSource</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>5</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <MarketValue>10.0</MarketValue>
+      <Mass>1.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Spaghetti_Ingredients</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>SpamCan</defName>
+    <label>spam can</label>
+    <description>Spam cans, you know what? In fact, only a few days after the spam cans were developed, the unsanitary meat... What? The script is wrong? Oh shit! Forget about that. Spam is spam.</description>
+    <graphicData>
+      <texPath>Things/Food_In/Spam_can/SM_Spam</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>5</MaxHitPoints>
+      <Flammability>0.1</Flammability>
+      <MarketValue>10.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>CookComponents</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>Flour_dough</defName>
+    <label>Flour_dough</label>
+    <description>flour dough. It is a ingredient that makes noodles for various foods.</description>
+    <graphicData>
+      <texPath>Things/Food_In/Flour_dough/SM_Flour_dough</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>5</MaxHitPoints>
+      <Flammability>0.1</Flammability>
+      <MarketValue>5.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Flour_processing</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>Ice_Lunch_box_Frozen</defName>
+    <label>Ice_Lunch_box(Frozen)</label>
+    <description>A lunch boxes. It looks like you've seen. Where are you? "See you again," "Gas 24." Anyway, you're watching it at Rimworld now! but It is now frozen. Need to avoid thawing time to eat.</description>
+    <graphicData>
+      <texPath>Things/Food/Ice_Lunch_box/SM_Ice_Lunch_box_Frozen</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>5</MaxHitPoints>
+      <Flammability>0.1</Flammability>
+      <MarketValue>30.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>CookComponents</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>RWF_Salt</defName>
+    <label>Salt</label>
+    <description>Salt!</description>
+    <graphicData>
+      <texPath>Things/Food_In/Salt/RWF_Salt</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>5</MaxHitPoints>
+      <Flammability>0.0</Flammability>
+      <MarketValue>1.5</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>CookComponents</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>RWF_Butter</defName>
+    <label>butter</label>
+    <description>butter!</description>
+    <graphicData>
+      <texPath>Things/Food_In/Butter</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>5</MaxHitPoints>
+      <Flammability>0.0</Flammability>
+      <MarketValue>5.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>CookComponents</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>RWF_OliveOil</defName>
+    <label>Olive Oil</label>
+    <description>Olive Oil!</description>
+    <graphicData>
+      <texPath>Things/Food_In/Olive_oil/RWF_Olive_oil</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>25</MaxHitPoints>
+      <Flammability>0.0</Flammability>
+      <MarketValue>10.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Cooking_oil</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>

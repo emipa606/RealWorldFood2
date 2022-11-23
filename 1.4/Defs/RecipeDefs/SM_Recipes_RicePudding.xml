@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--				Spam							-->
+  <RecipeDef>
+    <defName>Make_Ricepudding</defName>
+    <label>make Rice pudding</label>
+    <description>Make Rice pudding.</description>
+    <jobString>Making Rice pudding.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>500</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawRice</li>
+          </thingDefs>
+        </filter>
+        <count>5.0</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_Butter</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_Sugar</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RawRice</li>
+        <li>RWF_Butter</li>
+        <li>RC2_Sugar</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ricepudding>1</Ricepudding>
+    </products>
+    <skillRequirements>
+      <Cooking>5</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>SM_RicePudding</researchPrerequisite>
+  </RecipeDef>
+</Defs>
