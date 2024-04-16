@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="RC2_PlantFoodRawBase">
+    <defName>RawOlive</defName>
+    <label>Olive</label>
+    <description>Raw Olive.</description>
+    <graphicData>
+      <texPath>Things/RawPlant/Olive/RWF_Olive</texPath>
+    </graphicData>
+    <statBases>
+      <MarketValue>1.1</MarketValue>
+    </statBases>
+    <ingestible>
+      <foodType>VegetableOrFruit</foodType>
+      <tasteThought>AteOlive</tasteThought>
+    </ingestible>
+    <thingCategories>
+      <li>Cooking_oil</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>30</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

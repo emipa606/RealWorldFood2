@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- 			도시락					-->
+  <RecipeDef>
+    <defName>Make_Ice_Lunch_Box</defName>
+    <label>make Ice_Lunch_Box</label>
+    <description>Make a Ice_Lunch_Box.</description>
+    <jobString>Making Ice_Lunch_Box.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>2500</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawRice</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SpamCan</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>EggChickenUnfertilized</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>EggChickenUnfertilized</li>
+        <li>SpamCan</li>
+        <li>RawRice</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ice_Lunch_box_Frozen>1</Ice_Lunch_box_Frozen>
+    </products>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>SM_Lunch_Box</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Thaw_Lunch_Boxes</defName>
+    <label>Thaw_Lunch_Boxes</label>
+    <description>Thaw a Lunch_Boxes.</description>
+    <jobString>Thawing Lunch_Boxes.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>250</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Ice_Lunch_box_Frozen</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Ice_Lunch_box_Frozen</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ice_Lunch_box>1</Ice_Lunch_box>
+    </products>
+    <skillRequirements>
+      <Cooking>1</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>SM_Lunch_Box</researchPrerequisite>
+  </RecipeDef>
+</Defs>

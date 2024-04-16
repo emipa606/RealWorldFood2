@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- 			라면					-->
+  <RecipeDef>
+    <defName>Make_OliveOil</defName>
+    <label>make Olive oil</label>
+    <description>Make a Olive oil.</description>
+    <jobString>Making Olive oil.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>2500</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawOlive</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RawOlive</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWF_OliveOil>1</RWF_OliveOil>
+    </products>
+    <skillRequirements>
+      <Cooking>1</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>SM_Olive2</researchPrerequisite>
+  </RecipeDef>
+</Defs>
