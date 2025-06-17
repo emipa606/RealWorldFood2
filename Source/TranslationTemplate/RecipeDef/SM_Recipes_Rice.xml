@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make a RicePorridge -->
+  <Make_RicePorridge.label>make a RicePorridge</Make_RicePorridge.label>
+  <!-- EN: Make RicePorridge. -->
+  <Make_RicePorridge.description>Make RicePorridge.</Make_RicePorridge.description>
+  <!-- EN: Making RicePorridge. -->
+  <Make_RicePorridge.jobString>Making RicePorridge.</Make_RicePorridge.jobString>
+  <!-- EN: make 10 RicePorridge -->
+  <Make_RicePorridge_X10.label>make 10 RicePorridge</Make_RicePorridge_X10.label>
+  <!-- EN: Make 10 RicePorridge. -->
+  <Make_RicePorridge_X10.description>Make 10 RicePorridge.</Make_RicePorridge_X10.description>
+  <!-- EN: Making RicePorridge. -->
+  <Make_RicePorridge_X10.jobString>Making RicePorridge.</Make_RicePorridge_X10.jobString>
+</LanguageData>

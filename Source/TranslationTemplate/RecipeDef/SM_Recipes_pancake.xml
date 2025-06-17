@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make PanCake Box -->
+  <Make_BoxOfPanCake.label>make PanCake Box</Make_BoxOfPanCake.label>
+  <!-- EN: Make a PanCake Box. -->
+  <Make_BoxOfPanCake.description>Make a PanCake Box.</Make_BoxOfPanCake.description>
+  <!-- EN: Making PanCake Box. -->
+  <Make_BoxOfPanCake.jobString>Making PanCake Box.</Make_BoxOfPanCake.jobString>
+  <!-- EN: make PanCake Box ×10 -->
+  <Make_BoxOfPanCake_X10.label>make PanCake Box ×10</Make_BoxOfPanCake_X10.label>
+  <!-- EN: Make 10 PanCake Box. -->
+  <Make_BoxOfPanCake_X10.description>Make 10 PanCake Box.</Make_BoxOfPanCake_X10.description>
+  <!-- EN: Making PanCake Box. -->
+  <Make_BoxOfPanCake_X10.jobString>Making PanCake Box.</Make_BoxOfPanCake_X10.jobString>
+  <!-- EN: make PanCake -->
+  <Make_PanCake.label>make PanCake</Make_PanCake.label>
+  <!-- EN: Make PanCake. -->
+  <Make_PanCake.description>Make PanCake.</Make_PanCake.description>
+  <!-- EN: Making PanCake. -->
+  <Make_PanCake.jobString>Making PanCake.</Make_PanCake.jobString>
+</LanguageData>

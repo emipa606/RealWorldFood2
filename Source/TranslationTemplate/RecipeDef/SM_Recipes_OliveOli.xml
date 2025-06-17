@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Olive oil -->
+  <Make_OliveOil.label>make Olive oil</Make_OliveOil.label>
+  <!-- EN: Make a Olive oil. -->
+  <Make_OliveOil.description>Make a Olive oil.</Make_OliveOil.description>
+  <!-- EN: Making Olive oil. -->
+  <Make_OliveOil.jobString>Making Olive oil.</Make_OliveOil.jobString>
+</LanguageData>

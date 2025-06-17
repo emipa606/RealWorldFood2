@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Ice_Lunch_Box -->
+  <Make_Ice_Lunch_Box.label>make Ice_Lunch_Box</Make_Ice_Lunch_Box.label>
+  <!-- EN: Make a Ice_Lunch_Box. -->
+  <Make_Ice_Lunch_Box.description>Make a Ice_Lunch_Box.</Make_Ice_Lunch_Box.description>
+  <!-- EN: Making Ice_Lunch_Box. -->
+  <Make_Ice_Lunch_Box.jobString>Making Ice_Lunch_Box.</Make_Ice_Lunch_Box.jobString>
+  <!-- EN: Thaw_Lunch_Boxes -->
+  <Thaw_Lunch_Boxes.label>Thaw_Lunch_Boxes</Thaw_Lunch_Boxes.label>
+  <!-- EN: Thaw a Lunch_Boxes. -->
+  <Thaw_Lunch_Boxes.description>Thaw a Lunch_Boxes.</Thaw_Lunch_Boxes.description>
+  <!-- EN: Thawing Lunch_Boxes. -->
+  <Thaw_Lunch_Boxes.jobString>Thawing Lunch_Boxes.</Thaw_Lunch_Boxes.jobString>
+</LanguageData>

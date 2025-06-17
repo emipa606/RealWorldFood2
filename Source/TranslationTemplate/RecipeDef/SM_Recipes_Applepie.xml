@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Apple_Pie -->
+  <Make_Apple_Pie.label>make Apple_Pie</Make_Apple_Pie.label>
+  <!-- EN: Make Apple_Pie. -->
+  <Make_Apple_Pie.description>Make Apple_Pie.</Make_Apple_Pie.description>
+  <!-- EN: Making Apple_Pie. -->
+  <Make_Apple_Pie.jobString>Making Apple_Pie.</Make_Apple_Pie.jobString>
+  <!-- EN: make 10 Apple_Pie -->
+  <Make_Apple_Pie_10.label>make 10 Apple_Pie</Make_Apple_Pie_10.label>
+  <!-- EN: Make 10 Apple_Pie. -->
+  <Make_Apple_Pie_10.description>Make 10 Apple_Pie.</Make_Apple_Pie_10.description>
+  <!-- EN: Making Apple_Pie. -->
+  <Make_Apple_Pie_10.jobString>Making Apple_Pie.</Make_Apple_Pie_10.jobString>
+</LanguageData>

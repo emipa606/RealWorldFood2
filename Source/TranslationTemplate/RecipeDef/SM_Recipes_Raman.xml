@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Raman -->
+  <Make_Raman.label>make Raman</Make_Raman.label>
+  <!-- EN: Make a Raman. -->
+  <Make_Raman.description>Make a Raman.</Make_Raman.description>
+  <!-- EN: Making Raman. -->
+  <Make_Raman.jobString>Making Raman.</Make_Raman.jobString>
+</LanguageData>

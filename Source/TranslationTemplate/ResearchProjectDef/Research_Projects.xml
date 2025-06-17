@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: baes spagete -->
+  <Baes_Spagete.label>baes spagete</Baes_Spagete.label>
+  <!-- EN: Now you know how to make spagete, and can make spagete resource -->
+  <Baes_Spagete.description>Now you know how to make spagete, and can make spagete resource</Baes_Spagete.description>
+  <!-- EN: make Dough -->
+  <Make_Dough.label>make Dough</Make_Dough.label>
+  <!-- EN: Let's make Dough. -->
+  <Make_Dough.description>Let's make Dough.</Make_Dough.description>
+  <!-- EN: make hot cake -->
+  <Make_HotCake.label>make hot cake</Make_HotCake.label>
+  <!-- EN: Let's make hot cake. -->
+  <Make_HotCake.description>Let's make hot cake.</Make_HotCake.description>
+  <!-- EN: make Noodle -->
+  <Make_Noodle.label>make Noodle</Make_Noodle.label>
+  <!-- EN: Let's make Noodle. -->
+  <Make_Noodle.description>Let's make Noodle.</Make_Noodle.description>
+  <!-- EN: make rice porridge -->
+  <Make_RicePorridge.label>make rice porridge</Make_RicePorridge.label>
+  <!-- EN: Let's make rice porridge. -->
+  <Make_RicePorridge.description>Let's make rice porridge.</Make_RicePorridge.description>
+  <!-- EN: make simple meal -->
+  <Make_SimpleMeal.label>make simple meal</Make_SimpleMeal.label>
+  <!-- EN: Let's make simple meal. -->
+  <Make_SimpleMeal.description>Let's make simple meal.</Make_SimpleMeal.description>
+  <!-- EN: Apple_pie making -->
+  <SM_Apple_pie.label>Apple_pie making</SM_Apple_pie.label>
+  <!-- EN: Now you can make Apple_pie. -->
+  <SM_Apple_pie.description>Now you can make Apple_pie.</SM_Apple_pie.description>
+  <!-- EN: Butter making -->
+  <SM_Butter.label>Butter making</SM_Butter.label>
+  <!-- EN: Now you can make Butter. -->
+  <SM_Butter.description>Now you can make Butter.</SM_Butter.description>
+  <!-- EN: Lunch_Box making -->
+  <SM_Lunch_Box.label>Lunch_Box making</SM_Lunch_Box.label>
+  <!-- EN: Now you can make Lunch_Box. -->
+  <SM_Lunch_Box.description>Now you can make Lunch_Box.</SM_Lunch_Box.description>
+  <!-- EN: olive planting -->
+  <SM_Olive.label>olive planting</SM_Olive.label>
+  <!-- EN: learn about olive planting. -->
+  <SM_Olive.description>learn about olive planting.</SM_Olive.description>
+  <!-- EN: make olive oil -->
+  <SM_Olive2.label>make olive oil</SM_Olive2.label>
+  <!-- EN: learn about olive oil making. -->
+  <SM_Olive2.description>learn about olive oil making.</SM_Olive2.description>
+  <!-- EN: Raman making -->
+  <SM_Raman.label>Raman making</SM_Raman.label>
+  <!-- EN: Now you can make Raman. -->
+  <SM_Raman.description>Now you can make Raman.</SM_Raman.description>
+  <!-- EN: make Rice Pudding -->
+  <SM_RicePudding.label>make Rice Pudding</SM_RicePudding.label>
+  <!-- EN: learn about Rice Pudding making. -->
+  <SM_RicePudding.description>learn about Rice Pudding making.</SM_RicePudding.description>
+  <!-- EN: Spam making -->
+  <SM_Spam.label>Spam making</SM_Spam.label>
+  <!-- EN: Now you can make Spam. -->
+  <SM_Spam.description>Now you can make Spam.</SM_Spam.description>
+  <!-- EN: spagete making -->
+  <Spagete_Making.label>spagete making</Spagete_Making.label>
+  <!-- EN: Now you can make spagete. -->
+  <Spagete_Making.description>Now you can make spagete.</Spagete_Making.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Apple_Pie -->
+  <Apple_Pie.label>Apple_Pie</Apple_Pie.label>
+  <!-- EN: Apple pie, you're reading this! Maybe you've created a luxury settlement or you're using cheats!. -->
+  <Apple_Pie.description>Apple pie, you're reading this! Maybe you've created a luxury settlement or you're using cheats!.</Apple_Pie.description>
+  <!-- EN: Ice_Lunch_box -->
+  <Ice_Lunch_box.label>Ice_Lunch_box</Ice_Lunch_box.label>
+  <!-- EN: A lunch boxes. It looks like you've seen. Where are you? "See you again," "Gas 24." Anyway, you're watching it at Rimworld now!. -->
+  <Ice_Lunch_box.description>A lunch boxes. It looks like you've seen. Where are you? "See you again," "Gas 24." Anyway, you're watching it at Rimworld now!.</Ice_Lunch_box.description>
+  <!-- EN: pancake -->
+  <PanCake.label>pancake</PanCake.label>
+  <!-- EN: A simple pankace. it's sweet. -->
+  <PanCake.description>A simple pankace. it's sweet.</PanCake.description>
+  <!-- EN: Raman -->
+  <Raman.label>Raman</Raman.label>
+  <!-- EN: Where is this ramen? What does it matter? I've seen it in Rimwold, so don't mind!. -->
+  <Raman.description>Where is this ramen? What does it matter? I've seen it in Rimwold, so don't mind!.</Raman.description>
+  <!-- EN: rice porridge -->
+  <RicePorridge.label>rice porridge</RicePorridge.label>
+  <!-- EN: Rice porridge, it's not tasteless, it's just... it's not enough to eat I mean, you're gonna have to eat two times. But it's easy to make.. -->
+  <RicePorridge.description>Rice porridge, it's not tasteless, it's just... it's not enough to eat I mean, you're gonna have to eat two times. But it's easy to make..</RicePorridge.description>
+  <!-- EN: Rice pudding -->
+  <Ricepudding.label>Rice pudding</Ricepudding.label>
+  <!-- EN: Rice pudding. -->
+  <Ricepudding.description>Rice pudding.</Ricepudding.description>
+  <!-- EN: spagete -->
+  <Spagete.label>spagete</Spagete.label>
+  <!-- EN: Spaghetti! What else do you need?. -->
+  <Spagete.description>Spaghetti! What else do you need?.</Spagete.description>
+</LanguageData>

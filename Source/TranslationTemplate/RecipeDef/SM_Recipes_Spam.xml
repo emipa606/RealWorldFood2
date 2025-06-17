@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Spam -->
+  <Make_Spam.label>make Spam</Make_Spam.label>
+  <!-- EN: Make Spam. -->
+  <Make_Spam.description>Make Spam.</Make_Spam.description>
+  <!-- EN: Making Spam. -->
+  <Make_Spam.jobString>Making Spam.</Make_Spam.jobString>
+  <!-- EN: make 10 Spam -->
+  <Make_Spam_10.label>make 10 Spam</Make_Spam_10.label>
+  <!-- EN: Make 10 Spam. -->
+  <Make_Spam_10.description>Make 10 Spam.</Make_Spam_10.description>
+  <!-- EN: Making Spam. -->
+  <Make_Spam_10.jobString>Making Spam.</Make_Spam_10.jobString>
+</LanguageData>

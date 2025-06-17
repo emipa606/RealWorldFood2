@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 376861476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a3df4cdd28c594efb26d6ff59d40b36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a3df4cdd28c594efb26d6ff59d40b36
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food/Ricepudding/RWF_Ricepudding.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/HotCakeBox/Flour_Box.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Building/Raw_Spaghetti/Spagehetti_north.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/Flour_dough/SM_Flour_dough.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/Butter/RWFButterb.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food/PanCake/HotCake.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/UI/Icons/ThingCategories/SP.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/Salt/RWF_Salt.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food/Ice_Lunch_box/SM_Ice_Lunch_box.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/RawPlant/Olive/RWF_Olive.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food/Spagete/SM_Spagete.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food/RicePorridge/SM_RicePorridge.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/Olive_oil/RWF_Olive_oil.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/Row_Spagete/SM_SpageteSource.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food/Ice_Lunch_box/SM_Ice_Lunch_box_Frozen.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food/Apple_pie/SM_Apple_pie.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Plant/OliveTree/OliveTB.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Building/Raw_Spaghetti/Spagehetti_east.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Plant/Immature/OliveTree/OliveTA.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/Row_Spagete/SM_SpageteRow.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/UI/Icons/ThingCategories/Fl.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/Butter/RWFButterc.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/Butter/RWFButtera.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Building/Raw_Spaghetti/Spagehetti_south.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food_In/Spam_can/SM_Spam.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/UI/Icons/ThingCategories/All_in.png
+- Assets/Data/Mlie.RealWorldFood2/Textures/Things/Food/Raman/SM_Raman.png
+Dependencies: []

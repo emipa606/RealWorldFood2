@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Spagete -->
+  <Make_Spagete.label>make Spagete</Make_Spagete.label>
+  <!-- EN: Make Spagete. -->
+  <Make_Spagete.description>Make Spagete.</Make_Spagete.description>
+  <!-- EN: Making Spagete. -->
+  <Make_Spagete.jobString>Making Spagete.</Make_Spagete.jobString>
+  <!-- EN: make SpageteNoodle -->
+  <Make_SpageteNoodle.label>make SpageteNoodle</Make_SpageteNoodle.label>
+  <!-- EN: Make SpageteNoodle. -->
+  <Make_SpageteNoodle.description>Make SpageteNoodle.</Make_SpageteNoodle.description>
+  <!-- EN: Making SpageteNoodle. -->
+  <Make_SpageteNoodle.jobString>Making SpageteNoodle.</Make_SpageteNoodle.jobString>
+  <!-- EN: make spagete source -->
+  <Make_SpageteSource.label>make spagete source</Make_SpageteSource.label>
+  <!-- EN: Make a spagete source. -->
+  <Make_SpageteSource.description>Make a spagete source.</Make_SpageteSource.description>
+  <!-- EN: Making spagete source. -->
+  <Make_SpageteSource.jobString>Making spagete source.</Make_SpageteSource.jobString>
+  <!-- EN: make spagete source ×10 -->
+  <Make_SpageteSource_X10.label>make spagete source ×10</Make_SpageteSource_X10.label>
+  <!-- EN: Make 10 spagete source. -->
+  <Make_SpageteSource_X10.description>Make 10 spagete source.</Make_SpageteSource_X10.description>
+  <!-- EN: Making spagete source. -->
+  <Make_SpageteSource_X10.jobString>Making spagete source.</Make_SpageteSource_X10.jobString>
+</LanguageData>

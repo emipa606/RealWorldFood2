@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Box Of Pan Cake -->
+  <BoxOfPanCake.label>Box Of Pan Cake</BoxOfPanCake.label>
+  <!-- EN: There are 10 pancakes in the pancakes box. You can eat after cooking. -->
+  <BoxOfPanCake.description>There are 10 pancakes in the pancakes box. You can eat after cooking.</BoxOfPanCake.description>
+  <!-- EN: Flour_dough -->
+  <Flour_dough.label>Flour_dough</Flour_dough.label>
+  <!-- EN: flour dough. It is a ingredient that makes noodles for various foods. -->
+  <Flour_dough.description>flour dough. It is a ingredient that makes noodles for various foods.</Flour_dough.description>
+  <!-- EN: Ice_Lunch_box(Frozen) -->
+  <Ice_Lunch_box_Frozen.label>Ice_Lunch_box(Frozen)</Ice_Lunch_box_Frozen.label>
+  <!-- EN: A lunch boxes. It looks like you've seen. Where are you? "See you again," "Gas 24." Anyway, you're watching it at Rimworld now! but It is now frozen. Need to avoid thawing time to eat. -->
+  <Ice_Lunch_box_Frozen.description>A lunch boxes. It looks like you've seen. Where are you? "See you again," "Gas 24." Anyway, you're watching it at Rimworld now! but It is now frozen. Need to avoid thawing time to eat.</Ice_Lunch_box_Frozen.description>
+  <!-- EN: row spagete -->
+  <Row_Spagete.label>row spagete</Row_Spagete.label>
+  <!-- EN: Uncooked noodles, what kind of food will it be? -->
+  <Row_Spagete.description>Uncooked noodles, what kind of food will it be?</Row_Spagete.description>
+  <!-- EN: row spagete source -->
+  <Row_SpageteSource.label>row spagete source</Row_SpageteSource.label>
+  <!-- EN: Boiled and cooked tomato sauce, don't think about eating it without cooking it! -->
+  <Row_SpageteSource.description>Boiled and cooked tomato sauce, don't think about eating it without cooking it!</Row_SpageteSource.description>
+  <!-- EN: butter -->
+  <RWF_Butter.label>butter</RWF_Butter.label>
+  <!-- EN: butter! -->
+  <RWF_Butter.description>butter!</RWF_Butter.description>
+  <!-- EN: Olive Oil -->
+  <RWF_OliveOil.label>Olive Oil</RWF_OliveOil.label>
+  <!-- EN: Olive Oil! -->
+  <RWF_OliveOil.description>Olive Oil!</RWF_OliveOil.description>
+  <!-- EN: Salt -->
+  <RWF_Salt.label>Salt</RWF_Salt.label>
+  <!-- EN: Salt! -->
+  <RWF_Salt.description>Salt!</RWF_Salt.description>
+  <!-- EN: spam can -->
+  <SpamCan.label>spam can</SpamCan.label>
+  <!-- EN: Spam cans, you know what? In fact, only a few days after the spam cans were developed, the unsanitary meat... What? The script is wrong? Oh shit! Forget about that. Spam is spam. -->
+  <SpamCan.description>Spam cans, you know what? In fact, only a few days after the spam cans were developed, the unsanitary meat... What? The script is wrong? Oh shit! Forget about that. Spam is spam.</SpamCan.description>
+</LanguageData>

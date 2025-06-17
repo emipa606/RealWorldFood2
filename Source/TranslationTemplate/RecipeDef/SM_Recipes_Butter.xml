@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Butter -->
+  <Make_Butter.label>make Butter</Make_Butter.label>
+  <!-- EN: Make Butter. -->
+  <Make_Butter.description>Make Butter.</Make_Butter.description>
+  <!-- EN: Making Butter. -->
+  <Make_Butter.jobString>Making Butter.</Make_Butter.jobString>
+</LanguageData>

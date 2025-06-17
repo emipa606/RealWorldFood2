@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cook components -->
+  <CookComponents.label>cook components</CookComponents.label>
+  <!-- EN: Cooking oil -->
+  <Cooking_oil.label>Cooking oil</Cooking_oil.label>
+  <!-- EN: flour processing -->
+  <Flour_processing.label>flour processing</Flour_processing.label>
+  <!-- EN: spaghetti ingredients -->
+  <Spaghetti_Ingredients.label>spaghetti ingredients</Spaghetti_Ingredients.label>
+</LanguageData>

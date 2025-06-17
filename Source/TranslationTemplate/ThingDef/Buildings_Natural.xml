@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: salt ore -->
+  <MineableSalt.label>salt ore</MineableSalt.label>
+  <!-- EN: Rock containing salt. -->
+  <MineableSalt.description>Rock containing salt.</MineableSalt.description>
+</LanguageData>

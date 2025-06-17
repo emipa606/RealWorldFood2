@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make noodles -->
+  <DoBillsMakenoodle.label>make noodles</DoBillsMakenoodle.label>
+  <!-- EN: cooking at -->
+  <DoBillsMakenoodle.gerund>cooking at</DoBillsMakenoodle.gerund>
+  <!-- EN: cook -->
+  <DoBillsMakenoodle.verb>cook</DoBillsMakenoodle.verb>
+</LanguageData>
