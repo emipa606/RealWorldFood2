@@ -1,6 +1,6 @@
 # [Real World Food 2 (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2256552171)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of mIkos mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1717902989
@@ -10,9 +10,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1717902989
 Also updated the Fish-Addon mod:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2256557380
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Real World Food, adding some food!
 
@@ -54,13 +54,13 @@ This mode no longer requires 'RimCuisine 1.0' now use 'RimCuisine 2 Core' as the
 Listen, people, I've started playing games again and I'm updating this mode, but I'm having a hard time updating the mode unlike I did in 1.0. I'm sorry it's taking time.
 
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -68,4 +68,4 @@ Listen, people, I've started playing games again and I'm updating this mode, but
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/RealWorldFood2?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2256552171) | tags:  realistic food
+[![Image](https://img.shields.io/github/v/release/emipa606/RealWorldFood2?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2256552171) | realistic food
